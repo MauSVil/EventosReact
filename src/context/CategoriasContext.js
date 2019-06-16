@@ -10,7 +10,7 @@ class CategoriasProvider extends Component {
         categorias: []
     }
 
-    token = 'SKE6GNQ5DPWOLPPMVDZF';
+    // token="YOUR TOKEN" 
 
     componentDidMount(){
         this.obtenerCategorias()

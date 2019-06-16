@@ -1,4 +1,5 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## You can see a quick view of the project on: 
+https://eventosreact.netlify.com/
 
 ## Available Scripts
 
